@@ -22,9 +22,9 @@
 # Build variables that are NOT used in paths should be set in
 # the CONFIG_SITE file.
 
-STREAMDEVICE = /home/controls/epics/StreamDevice/master
+STREAMDEVICE = /home/controls/prod/epics/StreamDevice/rel2.6_20170606
 
-EPICS_BASE = /home/controls/epics/base/master
+EPICS_BASE = /home/controls/prod/epics/base/rel3.14.12.6_20170606
 
 # Set RULES here if you want to use build rules from somewhere
 # other than EPICS_BASE:
